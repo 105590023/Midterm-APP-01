@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">APP01_105590023</string>
+    <string name="gradeView">成績:</string>
+    <string name="gradeText">請輸入整數成績</string>
+    <string name="btn">確定</string>
+    <string name="result">等第:</string>
+</resources>
